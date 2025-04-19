@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlobTimeLapse</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="timelapse">TimeLapse</string>
+    <string name="go_to_photo">Go to Photo</string>
+    <string name="event">Simu Event</string>
+</resources>
